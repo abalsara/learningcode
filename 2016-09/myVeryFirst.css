@@ -1,0 +1,30 @@
+body {
+        color: red;
+        background-color: blue;
+
+}
+
+input {
+    color: purple;
+    background-color: yellow;
+}
+
+.myDiv {
+    color: green;
+    background-color: orange;
+}
+
+.myDiv2 {
+    color: darkred;
+    background-color: black;
+}
+
+.mySpan {
+    color: white;
+    background-color: black;
+}
+
+.mySpan2 {
+    color: black;
+    background-color: white;
+}
